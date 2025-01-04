@@ -1,4 +1,4 @@
-# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> <br/> I'm [Omkar B](https://github.com/omii1623)
+# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> <br/> I'm [Omkar Bombe](https://github.com/omii1623)
 
 ![Omkar Bombe (2)](https://github.com/omii1623/omii1623/blob/main/githubimage.jpg)
 
@@ -9,7 +9,7 @@
 
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=om-bombe&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-bombe&theme=tokyonight"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=omii1623bombe&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=omii1623&theme=tokyonight"/>|
 |---|---|
 
  ## Connect with me  
