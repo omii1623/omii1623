@@ -1,6 +1,6 @@
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> <br/> I'm [Omkar Bombe](https://github.com/omii1623)
 
-![Omkar Bombe (2)](https://github.com/omii1623/omii1623/blob/main/Omkar%20Bombe%20(16).png)
+![Omkar Bombe (2)](https://github.com/omii1623/omii1623/blob/main/githubimage.jpg)
 
 
 👨🏻‍🎓 I'm currently pursuing my MSc CS degree from MIT ACSC College, Alandi, Pune. <br />
